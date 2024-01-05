@@ -1,0 +1,167 @@
+time: 2024-01-05 16:27:55.994378
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+<|im_start|>system
+You are an advanced and helpful AI assistant.<|im_end|>
+<|im_start|>user
+rewrite  in an easy to understand tone this text
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text><|im_end|>
+<|im_start|>assistant
+52-dolphin-2_6-phi-2-GGUF_1.3B: 
+Sheared LLaMA: Making Big Language Models Smaller and Faster! People love big language models like LLaMA, but they're really hard to make from scratch because it takes so much time and energy (trillions of tokens!). In this study, we found a way to create smaller versions of these big models called Sheared-LLaMAs. We do this by using two cool tricks: 
+1) Targeted structured pruning - which means taking away parts like layers, heads, and hidden details from the bigger model in an easy step-by-step process (end-to-end).
+2) Dynamic batch loading - where we change what data is used for each training session based on how well it's doing. 
+We showed that our Sheared-LLaMA series can make a big LLaMA model into two smaller ones with only 1.3B and 2.7B parts! These new models are even better than other similar models, like Pythia, INCITE, and OpenLLaMA, on many different tasks while using much less power (only 3% compared to making them from scratch). This study shows that we can make smaller language models by taking advantage of big ones with a smart technique called structured pruning.
+Generated in 0:02:14.605603
+PromptTokens: Prompt Tokens: 387   Output Tokens: Out Tkns: 260  Total Tokens: Total Tkns: 647  Speed: 4.806634980863315
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: good job, PHI 2. was not the same with PHI-1
+---
+
+
+time: 2024-01-05 16:39:50.543394
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+<|im_start|>system
+You are an advanced and helpful AI assistant.<|im_end|>
+<|im_start|>user
+summarize this text
+<text>
+Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning. The popularity of LLaMA (Touvron et al., 2023a;b) and other recently emerged moderate-sized large language models (LLMs) highlights the potential of building smaller yet powerful LLMs. Regardless, the cost of training such models from scratch on trillions of tokens remains high. In this work, we study structured pruning as an effective means to develop smaller LLMs from pre-trained, larger models. Our approach employs two key techniques: (1) targeted structured pruning, which prunes a larger model to a specified target shape by removing layers, heads, and intermediate and hidden dimensions in an end-to-end manner, and (2) dynamic batch loading, which dynamically updates the composition of sampled data in each training batch based on varying losses across different domains. We demonstrate the efficacy of our approach by presenting the Sheared-LLaMA series, pruning the LLaMA2-7B model down to 1.3B and 2.7B parameters. Sheared-LLaMA models outperform state-of-the-art open-source models of equivalent sizes, such as Pythia, INCITE, and OpenLLaMA models, on a wide range of downstream and instruction tuning evaluations, while requiring only 3% of compute compared to training such models from scratch. This work provides compelling evidence that leveraging existing LLMs with structured pruning is a far more cost-effective approach for building smaller LLMs.
+</text><|im_end|>
+<|im_start|>assistant
+52-dolphin-2_6-phi-2-GGUF_1.3B: 
+The text discusses the development of smaller yet powerful language models (LLMs) using targeted structural pruning, which involves removing layers and dimensions from pre-trained larger models to achieve desired shapes. The authors also introduce dynamic batch loading as a technique that dynamically updates data composition in each training batch based on varying losses across different domains. They present the Sheared-LLaMA series, demonstrating its effectiveness by reducing LLaM2-7B model parameters down to 1.3 and 2.7 billion while outperforming state-of-the-art open-source models of equivalent sizes with only 3% compute compared to training from scratch. The text highlights that leveraging existing LLMs through structured pruning is a more cost-effective approach for building smaller LLMs.
+Generated in 0:01:53.311151
+PromptTokens: Prompt Tokens: 381   Output Tokens: Out Tkns: 155  Total Tokens: Total Tkns: 536  Speed: 4.7303376169923474
+---
+time: 2024-01-05 16:55:58.513410
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+<|im_start|>system
+You are an advanced and helpful AI assistant.<|im_end|>
+<|im_start|>user
+Use the following context to  reply the user question. If the context does not contain the information for the answer, reply "I cannot reply!".
+<context>
+The Diary of a Young Girl, often referred to as The Diary of Anne Frank, is a book of the writings from the Dutch-language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands. The family was apprehended in 1944, and Anne Frank died of typhus in the Bergen-Belsen concentration camp in 1945. Anne's diaries were retrieved by Miep Gies and Bep Voskuijl. Miep gave them to Anne's father, Otto Frank, the family's only survivor, just after the Second World War was over.
+The diary has since been published in more than 70 languages. First published under the title Het Achterhuis. Dagboekbrieven 14 Juni 1942 – 1 Augustus 1944 (The Annex: Diary Notes 14 June 1942 – 1 August 1944) by Contact Publishing [nl] in Amsterdam in 1947, the diary received widespread critical and popular attention on the appearance of its English language translation, Anne Frank: The Diary of a Young Girl by Doubleday & Company (United States) and Vallentine Mitchell (United Kingdom) in 1952. Its popularity inspired the 1955 play The Diary of Anne Frank by the screenwriters Frances Goodrich and Albert Hackett, which they adapted for the screen for the 1959 movie version. The book is included in several lists of the top books of the 20th century
+In the manuscript, her original diaries are written over three extant volumes. The first volume (the red-and-white checkered autograph book) covers the period between 14 June and 5 December 1942. Since the second surviving volume (a school exercise book) begins on 22 December 1943, and ends on 17 April 1944, it is assumed that the original volume or volumes between December 1942 and December 1943 were lost, presumably after the arrest, when the hiding place was emptied on Nazi instructions. However, this missing period is covered in the version Anne rewrote for preservation. The third existing volume (which was also a school exercise book) contains entries from 17 April to 1 August 1944, when Anne wrote for the last time three days before her arrest. 
+The manuscript, written on loose sheets of paper, was found strewn on the floor of the hiding place by Miep Gies and Bep Voskuijl after the family's arrest,[22] but before their rooms were ransacked by a special department of the Amsterdam office of the Sicherheitsdienst (SD, Nazi intelligence agency) for which many Dutch collaborators worked.[23] The papers were given to Otto Frank after the war, when Anne's death was confirmed in July 1945 by sisters Janny and Lien Brilleslijper, who were with Margot and Anne in Bergen-Belsen.
+<end of context>
+
+Question: How was Anne Frank’s diary discovered?<|im_end|>
+<|im_start|>assistant
+52-dolphin-2_6-phi-2-GGUF_1.3B: 
+Anne Frank's diary was discovered after the family's arrest when Miep Gies and Bep Voskuijl found it strewn on the floor of their hiding place by a special department of the Amsterdam office of the Sicherheitsdienst (SD, Nazi intelligence agency). The papers were given to Otto Frank after the war.
+Generated in 0:02:33.114691
+PromptTokens: Prompt Tokens: 683   Output Tokens: Out Tkns: 73  Total Tokens: Total Tkns: 756  Speed: 4.937475268130868
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: good job, PHI 2. was not the same with PHI-1. RAG is GOOD
+---
+
+
+time: 2024-01-05 17:11:47.504999
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+<|im_start|>system
+You are an advanced and helpful AI assistant.<|im_end|>
+<|im_start|>user
+write a short blog post about Artificial intelligence and impact on nature and environment. Create also a catchy title and subheading.
+Format the output as follows:
+- [TITLE]  your catchy title
+- [SUBHEADING] your generated subheading for the blog post
+- [BLOG POST] your short blog post<|im_end|>
+<|im_start|>assistant
+52-dolphin-2_6-phi-2-GGUF_1.3B: 
+[CATCHY TITLE] The AI Revolution's Impact on Nature and Environment
+
+[SUBHEADING] How Artificial Intelligence is Shaping Our World, For Better or Worse?
+
+Artificial intelligence (AI) has been a game-changer in various industries. From healthcare to transportation, its impact can be seen everywhere. However, as we continue to advance technologically, it's essential to consider the implications of AI on our environment and nature. In this blog post, we'll explore how AI is shaping our world for better or worse when it comes to environmental sustainability.
+
+[BLOG POST] The rapid development of artificial intelligence has led to significant advancements in various sectors such as healthcare, transportation, and manufacturing. However, the increasing use of AI also raises concerns about its impact on nature and the environment. One major concern is energy consumption. As more data centers are needed to support AI systems, there's a corresponding increase in electricity usage. This can lead to higher greenhouse gas emissions if not managed properly.
+
+Another issue is e-waste generation. With the continuous development of new technologies, older devices become obsolete and end up as electronic waste (e-waste). E-waste contains hazardous materials that pose risks to both human health and the environment when improperly disposed of or recycled. The production process for AI components also contributes to pollution through resource extraction and manufacturing processes.
+
+On a positive note, AI can be used to address environmental challenges as well. For instance, machine learning algorithms can analyze large datasets related to climate change, deforestation, and wildlife conservation to identify patterns and make predictions that help inform policy decisions or guide conservation efforts more effectively. Additionally, AI-powered technologies like drones and robots are being developed for tasks such as monitoring air quality, cleaning up pollution, and even planting trees in areas affected by deforestation.
+
+In conclusion, while artificial intelligence has the potential to revolutionize our world positively, it's crucial that we consider its impact on nature and the environment. By implementing sustainable practices in AI development, usage, and disposal, we can ensure a more environmentally friendly future for generations to come.
+Generated in 0:02:25.836931
+PromptTokens: Prompt Tokens: 120   Output Tokens: Out Tkns: 433  Total Tokens: Total Tkns: 553  Speed: 3.7919064547511634
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: 
+---
+
+
+time: 2024-01-05 17:15:01.267485
+ Temp: 0.1 - MaxNewTokens: 1300 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+<|im_start|>system
+You are an advanced and helpful AI assistant.<|im_end|>
+<|im_start|>user
+Read the text.  Generate a list of questions about it.
+ <text>
+Lost in the Middle: How Language Models Use Long Contexts. Language models have become an important and flexible building block in a variety of user-facing language technologies, including conversational interfaces, search and summarization, and collaborative writing. These models perform downstream tasks primarily via prompting: all relevant task specification and data to process is formatted as a textual context, and the model returns a generated text completion. These input contexts can contain thousands of tokens, especially when using language models on lengthy inputs (e.g., legal or scientific documents, conversation histories, etc.) or augmenting them with external information (e.g.,relevant documents from a search engine, database query results, etc; Petroni et al., 2020; Ram et al., 2023; Shi et al., 2023; Mallen et al., 2023; Schick et al., 2023, inter alia). Handling these use-cases requires language models to successfully operate over long sequences. Figure 1: Changing the location of relevant information (in this case, the position of the passage that answers an input question) within the language model’s input context results in a U-shaped performance curve—models are better at using relevant information that occurs at the very beginning or end of its input context, and performance degrades significantly when models must access and use information located in the middle of its input context. 
+For example, GPT-3.5-Turbo’s open-book performance on the multi-document question task when relevant information is placed in the middle of its input context is lower than its performance when predicting without any documents (i.e., the closed-book setting; 56.1%). See Figure 5 for full results. Language models are generally implemented with Transformers, which scale poorly to long sequences (e.g., since self-attention complexity is quadratic with the input sequence length). As a result, language models are typically trained with relatively small context windows.
+</text><|im_end|>
+<|im_start|>assistant
+52-dolphin-2_6-phi-2-GGUF_1.3B: 
+1. What role do language models play in various user-facing language technologies? 
+2. How does the performance of language models change when they have to process long inputs like legal or scientific documents? 
+3. Can you explain how external information is used with language models and what impact it has on their performance? 
+4. What type of tasks do language models primarily perform via prompting, according to the text? 
+5. How does the position of relevant information within a model's input context affect its performance as per Figure 1 in the text? 
+6. Can you provide an example from GPT-3.5-Turbo that illustrates this U-shaped performance curve? 
+7. What is the open-book and closed-book setting mentioned in the text, and how do they impact a language model's performance on multi-document question tasks? 
+8. How does the use of Transformers for implementing language models affect their ability to handle long sequences? 
+9. Why are language models typically trained with relatively small context windows according to the text? 
+10. What is the main challenge that language models face when it comes to handling large inputs like conversation histories or legal documents, and how does this impact their performance?
+Generated in 0:02:51.062061
+PromptTokens: Prompt Tokens: 475   Output Tokens: Out Tkns: 258  Total Tokens: Total Tkns: 733  Speed: 4.284994555280145
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: Fantastic job!
+---
+
+
+time: 2024-01-05 17:19:05.420052
+ Temp: 0.1 - MaxNewTokens: 1300 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+<|im_start|>system
+You are an advanced and helpful AI assistant.<|im_end|>
+<|im_start|>user
+Read the text.  Generate an unsorted list of questions about it.
+ <text>
+Lost in the Middle: How Language Models Use Long Contexts. Language models have become an important and flexible building block in a variety of user-facing language technologies, including conversational interfaces, search and summarization, and collaborative writing. These models perform downstream tasks primarily via prompting: all relevant task specification and data to process is formatted as a textual context, and the model returns a generated text completion. These input contexts can contain thousands of tokens, especially when using language models on lengthy inputs (e.g., legal or scientific documents, conversation histories, etc.) or augmenting them with external information (e.g.,relevant documents from a search engine, database query results, etc; Petroni et al., 2020; Ram et al., 2023; Shi et al., 2023; Mallen et al., 2023; Schick et al., 2023, inter alia). Handling these use-cases requires language models to successfully operate over long sequences. Figure 1: Changing the location of relevant information (in this case, the position of the passage that answers an input question) within the language model’s input context results in a U-shaped performance curve—models are better at using relevant information that occurs at the very beginning or end of its input context, and performance degrades significantly when models must access and use information located in the middle of its input context. 
+For example, GPT-3.5-Turbo’s open-book performance on the multi-document question task when relevant information is placed in the middle of its input context is lower than its performance when predicting without any documents (i.e., the closed-book setting; 56.1%). See Figure 5 for full results. Language models are generally implemented with Transformers, which scale poorly to long sequences (e.g., since self-attention complexity is quadratic with the input sequence length). As a result, language models are typically trained with relatively small context windows.
+</text><|im_end|>
+<|im_start|>assistant
+52-dolphin-2_6-phi-2-GGUF_1.3B: 
+1. What role do language models play in various user-facing language technologies? 
+2. How does a language model perform downstream tasks primarily? 
+3. In what ways can the input contexts of these models be formatted? 
+4. Why are context windows typically small for language models, and how is this related to their performance on long sequences? 
+5. What type of data do language models often handle when used with lengthy inputs or external information? 
+6. How does changing the location of relevant information within a model's input context affect its performance? 
+7. Can you provide an example of how GPT-3.5-Turbo performs in different settings, such as open and closed book tasks? 
+8. What is the relationship between Transformers used to implement language models and their scalability for long sequences? 
+9. How does self-attention complexity affect a model's performance with longer input sequence lengths? 
+10. Can you explain what Figure 1 in the text represents, and how it relates to handling use cases involving lengthy inputs or external information?
+Generated in 0:02:39.707635
+PromptTokens: Prompt Tokens: 477   Output Tokens: Out Tkns: 227  Total Tokens: Total Tkns: 704  Speed: 4.408054755804254
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 👍 GOOD
+Generation notes: Fantastic job!
+---
+
+
