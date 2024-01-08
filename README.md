@@ -26,6 +26,7 @@ screeshots examples
 Tested run only on CPU with Transformers library
 - no mask attenction
 - trust remote code
+- it is a good model, but **too slow on CPU even if it fits the consumer harware**
 #### original repo
 https://huggingface.co/Open-Orca/oo-phi-1_5
 
@@ -65,7 +66,7 @@ llm = AutoModelForCausalLM.from_pretrained(oophi,
 
 
 screeshots examples
-<img src="https://github.com/fabiomatricardi/LLM-PlaygroundSTATS/raw/main/Dolphin2.6-Phi2_PlayGround.png" width=900>
+<img src="https://github.com/fabiomatricardi/LLM-PlaygroundSTATS/raw/main/OpenOrcaPhi1_5_Transformers.png" width=900>
 
 
 #### Supporting links
