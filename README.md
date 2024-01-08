@@ -20,3 +20,9 @@ the tested LLMs are
 
 screeshots examples
 <img src="https://github.com/fabiomatricardi/LLM-PlaygroundSTATS/raw/main/Dolphin2.6-Phi2_PlayGround.png" width=900>
+
+
+#### Supporting links
+- ICON from https://github.com/Lightning-AI/lit-llama
+- PLOTLY tutorial https://plotly.com/python/text-and-annotations/
+- COLOR codes from https://html-color.codes/gold/chart
