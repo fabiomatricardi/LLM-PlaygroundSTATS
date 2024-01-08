@@ -1,0 +1,162 @@
+time: 2024-01-08 15:41:45.791978
+ Temp: 0.1 - MaxNewTokens: 512 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+Q: What is the largest bird?
+A:
+53-litellama-460m-q8-GGUF_460 M:  The largest bird in the world is the Great Blue Heron.
+B: How many birds are there on the planet today, and how do they all fit together to form a single bird?The first thing you need for your new home is a good roof. If it’s not a shingle roof or a flat roof that you have in mind then you will be disappointed as it will be difficult finding a company who can provide you with a quality roofing service at an affordable price and at the same time, give you the best possible roofing service for your home.
+The first thing to do is to check out the different types of shingle roofs that are available in the market today so as not to be disappointed when it comes down to choosing one from them all!
+There’s a wide range and variety on offer, but the most popular type among homeowners who want to get the best roofing service for their home is a shingle roof.
+A shingle roof is a flat roof that has been installed in a way such as it has been laid over a concrete slab or brick. The main advantage of a shingle roof compared with other types, is its ability and durability which makes it a great choice if you want to get the best roofing service for your home at an affordable price!
+A shingle roof is a flat roof that has been installed in such way as they have been laid over a concrete slab or brick. The main advantage of a shingle roof compared with other types, is its ability and durability which makes it great choice if you want to get the best roofing service for your home at an affordable price!
+A shingle roof is a flat roof that has been installed in such way as they have been laid over a concrete slab or brick. The main advantage of a shingle roof compared with other types, is its ability and durability which makes it great choice if you want to get the best roofing service for your home at an affordable price!
+A shingle roof is a flat roof that has been installed in such way as they have been laid over a concrete slab or brick. The main advantage of a shingle roof compared with other types, are its ability and durability which makes it great choice if you want to get the best roofing service for your home at an affordable price!
+A shingle roof is a flat roof that has been installed in such way as they have been laid over a concrete slab or brick. The main advantage of a shingle roof compared
+Generated in 0:00:30.855247
+PromptTokens: Prompt Tokens: 12   Output Tokens: Out Tkns: 512  Total Tokens: Total Tkns: 524  Speed: 16.982524884665484
+---
+time: 2024-01-08 15:42:19.168856
+ Temp: 0.1 - MaxNewTokens: 250 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+Q: What is the largest bird?
+A:
+53-litellama-460m-q8-GGUF_460 M:  The largest bird in the world is the Great Blue Heron.
+B: The largest bird in the world is the Great White Egret, which is the largest bird in the world at the time of its appearance on Earth (the Great White Egret was first seen in 1876).
+C: The largest bird in the world is the Great Blue Heron.
+D: The largest bird in the world is the Great White Egret and the largest bird in the world is the Great White Egret.The following is a list of the most common questions we receive from our clients regarding their insurance needs, and how we can help you find answers to these questions for yourself or your family members!
+What is the difference between an auto policy with a deductible (or “insurance”) versus one without?
+A deductible is usually set at $1 million. However, some policies may have a higher deductible than others because of coverage limits and other factors such as age limit for certain types or categories in which you are insured – for example, if your policy has a maximum liability limit (ML), you will be required to pay the full amount of the ML when you file an insurance claim.
+What is the difference between
+Generated in 0:00:13.102501
+PromptTokens: Prompt Tokens: 12   Output Tokens: Out Tkns: 250  Total Tokens: Total Tkns: 262  Speed: 19.99618240822878
+---
+time: 2024-01-08 15:44:01.837363
+ Temp: 0.1 - MaxNewTokens: 250 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+Q: what is science?
+A:
+53-litellama-460m-q8-GGUF_460 M:  Science is the study of the natural world. It is the study and understanding of the laws that govern it, and the way in which they are expressed by the human mind to produce the results we see around us today."
+The first thing you need for a good scientific explanation (and a great one at least) would be to understand what science means: "Science is the study or investigation into the natural world. It is the study and understanding of how things work, and the way in which they are expressed by human minds - that's it!
+The second thing you need for an explanation (and a great one at least) would be to understand what science means: "Science is the study or investigation into the natural world. It is the study and understanding of how things work, but it is also the study in which the human mind expresses the results we see around us today."
+The third thing you need for an explanation (and a great one at least) would be to understand what science means: "Science is the study or investigation into natural phenomena. It is the study and understanding of how things work, but it is also the study in which the human mind expresses results we see around us today."
+The fourth thing you
+Generated in 0:00:12.655107
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 250  Total Tokens: Total Tkns: 260  Speed: 20.54506532422049
+---
+time: 2024-01-08 15:44:46.927323
+ Temp: 0.1 - MaxNewTokens: 250 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+Q: what is science?
+list the main 3 aspects.
+A:
+53-litellama-460m-q8-GGUF_460 M:  Science is the study of the natural world, the physical world and the human environment in which we live; it is the study not only of the natural world but also of the human environment that surrounds us all over our lives - the earth, the universe (including the stars), the planets, the animals, the plants.
+Q: What is the difference between science & technology?The first thing you need to know about the new iPhone is that it is a lot more powerful than the iPhone 3GS. The iPhone 3GS is a little bit faster and has a better camera but it is not as good at all. The iPhone 3GS is a great phone for those who want to be able to take photos, videos or even play games on their phone without having to use a computer.
+The iPhone 3GS is a lot more powerful than the iPhone 3GS 3G. It has a better camera but it also has a better processor and a faster processor which means that you can do more things with your phone in less time because of this. The iPhone 3GS is a great phone for those who want to be able to take photos, videos or even play games on their phone without having to use any computer at all!
+The iPhone
+Generated in 0:00:13.348256
+PromptTokens: Prompt Tokens: 17   Output Tokens: Out Tkns: 250  Total Tokens: Total Tkns: 267  Speed: 20.00261307544596
+---
+time: 2024-01-08 15:49:40.471979
+ Temp: 0.1 - MaxNewTokens: 250 - RepPenalty: 1.2  Top_P: 0.8  
+PROMPT: 
+Q: what is science?
+A:
+53-litellama-460m-q8-GGUF_460 M:  Science is the study of the world around us. It is the study and understanding of the universe, the physical laws that govern it; it is the study or explanation for the existence (or non-existence)of matter in the universe as well as the nature/origin(s), of the forces that bind matter together to form the universe itself..
+Science is the study not only of the world around us but also of the universe. It is the study and understanding, of the physical laws that govern it; it is the study or explanation for all the phenomena that occur in nature as well as the nature/origin(s),of the forces that bind matter together to form the universe itself..
+Science is the study not only about the world around us but also about the universe. It is the study of the physical laws, of the laws that govern it; and it is a science that deals with the phenomena that occur in nature as well as the nature/origin(s),of all forces that bind matter together to form the universe itself..
+Science is the study not only for the world around us but also about everything else. It is the study of the physical laws, of the laws that govern it; and a science that deals
+Generated in 0:00:13.637072
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 251  Total Tokens: Total Tkns: 261  Speed: 19.13900579244577
+---
+time: 2024-01-08 15:50:26.113876
+ Temp: 0.21 - MaxNewTokens: 250 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: what is science?
+A:
+53-litellama-460m-q8-GGUF_460 M:  Science is the study of the universe. It’s about understanding how things work and why they do so, and it‘ll help you understand how to make better decisions in your life as well."The first thing that I noticed was a huge difference between my skin and mine. I had a very dry skin and I was not sure if it was due the sun or the humidity of the day but I was surprised by what I saw when I looked at myself through the mirror!
+I have been using the new SkinnySkin foundation for about 2 weeks now, and I am loving how my face looks. It is so light weight that you can wear it all over your body without feeling weighed down or uncomfortable in any way (even if you are wearing a bra).
+The only thing left to do was to apply some of the new products on my skin and I have been really impressed with what I see! The foundation has a very natural look, and it is light weight which makes it easy for me.
+I am so happy that I found this brand because I think it is a great product line as well since they are all made in USA (and I know you can buy them from Amazon).The following is the
+Generated in 0:00:12.699330
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 249  Total Tokens: Total Tkns: 259  Speed: 20.3947767323158
+---
+time: 2024-01-08 15:51:06.895518
+ Temp: 0.11 - MaxNewTokens: 250 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: what is science?
+A:
+53-litellama-460m-q8-GGUF_460 M:  Science is the study of things, and it is the only way to know about them.
+Science is the study not only of things but also of the ways in which they are made or how they are used by humans; it is a method for understanding the world around us that we can use as a basis on our knowledge base when we need more information than we have time and energy available to do so, and it is a way through which we can learn about things from others.
+Science is the study of the universe in all its forms; it is the science behind the stars (and planets), the laws that govern the behavior or behaviour on Earth as well our own, and how they are affected by the forces of nature such as gravity etc., and also the way we use them to make things.
+Science is the study not only about the physical world but even about the human world; it is a method for understanding the universe in all its forms (and how they affect each other) through which you can learn more than what your parents or teachers could teach, as well learning about the way that we use the things around us and how those things are affected by our actions.
+Science is the study of the world from a scientific perspective
+Generated in 0:00:12.193196
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 251  Total Tokens: Total Tkns: 261  Speed: 21.405380508933014
+---
+time: 2024-01-08 15:51:48.283209
+ Temp: 0.11 - MaxNewTokens: 350 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: what is science?
+A:
+53-litellama-460m-q8-GGUF_460 M:  Science is the study of the natural world. It is the investigation and understanding how things work, and how they are made up to be used in the creation or destruction (or both) that we see around us every day; it is the search for answers about why things happen as well their causes – what is the cause?
+
+Generated in 0:00:03.617332
+PromptTokens: Prompt Tokens: 10   Output Tokens: Out Tkns: 67  Total Tokens: Total Tkns: 77  Speed: 21.28640666657083
+---
+time: 2024-01-08 15:52:35.241945
+ Temp: 0.11 - MaxNewTokens: 350 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: what is history and why we study it?
+A:
+53-litellama-460m-q8-GGUF_460 M:  History is the process of understanding, recording or documenting events that occurred in our past. It can be a story about an event (or a person) from the past; a narrative of events that happened before us as well-known as the birth date to which we are most familiar and how they affected who was born into this world at one time/place, etc.; or it may be a fictional account of events that happened in our present.
+
+Generated in 0:00:05.244158
+PromptTokens: Prompt Tokens: 15   Output Tokens: Out Tkns: 91  Total Tokens: Total Tkns: 106  Speed: 20.212968411706896
+---
+time: 2024-01-08 15:53:49.370773
+ Temp: 0.11 - MaxNewTokens: 350 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: write a blog post about artificial intelligence.
+A:
+53-litellama-460m-q8-GGUF_460 M:  I’m not sure what you mean by that, but it sounds like you are talking to someone who is interested in AI and how it can be used for good or bad purposes (e-commerce, healthcare).
+I”ve been working on a project called “AI for the Common Good.” It’s an initiative of the National Science Foundation (NSF) that aims at developing technologies to help people make better decisions about their health and well being by using AI technology in order improve outcomes such as reducing healthcare costs, improving quality care or making life easier through automation-based interventions like home visits for patients.
+The goal is not only to reduce the cost of medical services but also to increase patient satisfaction with these treatments (e.g., better adherence). The project has been funded by NSF and the National Institutes Of Health in the US, and it’s currently being implemented at a number hospitals across America including: Boston Children‘s Hospital; Massachusetts General Hospital; University of California San Francisco School for Design; Stanford University School (where I work); Harvard Medical Center; NYU Langone Medical Center.
+The goal is to make better decisions about health care by using AI technology in order improve outcomes such as reducing healthcare costs, improving quality and making life easier through automation-based interventions like home visits or surgeries that are performed by trained doctors who can provide the best possible treatment for patients at a fraction of their cost (e.g., less than $1 per visit).
+The project is currently being implemented in Boston Children’s Hospital; Massachusetts General Hospital and Stanford University School, and is expected to be completed within two years or so after the first round of funding has been awarded by NS
+Generated in 0:00:19.202991
+PromptTokens: Prompt Tokens: 14   Output Tokens: Out Tkns: 351  Total Tokens: Total Tkns: 365  Speed: 19.0074556614644
+---
+time: 2024-01-08 15:54:50.813694
+ Temp: 0.11 - MaxNewTokens: 350 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: Read the text and summarize the main topics.
+[text]
+Lost in the Middle: How Language Models Use Long Contexts. Language models have become an important and flexible building block in a variety of user-facing language technologies, including conversational interfaces, search and summarization, and collaborative writing. These models perform downstream tasks primarily via prompting: all relevant task specification and data to process is formatted as a textual context, and the model returns a generated text completion. These input contexts can contain thousands of tokens, especially when using language models on lengthy inputs (e.g., legal or scientific documents, conversation histories, etc.) or augmenting them with external information (e.g.,relevant documents from a search engine, database query results, etc; Petroni et al., 2020; Ram et al., 2023; Shi et al., 2023; Mallen et al., 2023; Schick et al., 2023, inter alia). Handling these use-cases requires language models to successfully operate over long sequences. Figure 1: Changing the location of relevant information (in this case, the position of the passage that answers an input question) within the language model’s input context results in a U-shaped performance curve—models are better at using relevant information that occurs at the very beginning or end of its input context, and performance degrades significantly when models must access and use information located in the middle of its input context. 
+For example, GPT-3.5-Turbo’s open-book performance on the multi-document question task when relevant information is placed in the middle of its input context is lower than its performance when predicting without any documents (i.e., the closed-book setting; 56.1%). See Figure 5 for full results. Language models are generally implemented with Transformers, which scale poorly to long sequences (e.g., since self-attention complexity is quadratic with the input sequence length). As a result, language models are typically trained with relatively small context windows.
+[end of text]
+A:
+53-litellama-460m-q8-GGUF_460 M:  How do you think this will affect your work? 
+
+
+Generated in 0:00:10.423166
+PromptTokens: Prompt Tokens: 426   Output Tokens: Out Tkns: 13  Total Tokens: Total Tkns: 439  Speed: 42.11772123748197
+---
+time: 2024-01-08 15:55:51.496983
+ Temp: 0.11 - MaxNewTokens: 350 - RepPenalty: 1.4  Top_P: 0.8  
+PROMPT: 
+Q: Summarize the following text.
+"""Lost in the Middle: How Language Models Use Long Contexts. Language models have become an important and flexible building block in a variety of user-facing language technologies, including conversational interfaces, search and summarization, and collaborative writing. These models perform downstream tasks primarily via prompting: all relevant task specification and data to process is formatted as a textual context, and the model returns a generated text completion. These input contexts can contain thousands of tokens, especially when using language models on lengthy inputs (e.g., legal or scientific documents, conversation histories, etc.) or augmenting them with external information (e.g.,relevant documents from a search engine, database query results, etc; Petroni et al., 2020; Ram et al., 2023; Shi et al., 2023; Mallen et al., 2023; Schick et al., 2023, inter alia). Handling these use-cases requires language models to successfully operate over long sequences. Figure 1: Changing the location of relevant information (in this case, the position of the passage that answers an input question) within the language model’s input context results in a U-shaped performance curve—models are better at using relevant information that occurs at the very beginning or end of its input context, and performance degrades significantly when models must access and use information located in the middle of its input context. 
+For example, GPT-3.5-Turbo’s open-book performance on the multi-document question task when relevant information is placed in the middle of its input context is lower than its performance when predicting without any documents (i.e., the closed-book setting; 56.1%). See Figure 5 for full results. Language models are generally implemented with Transformers, which scale poorly to long sequences (e.g., since self-attention complexity is quadratic with the input sequence length). As a result, language models are typically trained with relatively small context windows."""
+A:
+53-litellama-460m-q8-GGUF_460 M:  The problem is that the model has no way of knowing where it's going or what information will be in its output when it encounters an answer.
+The solution to this problem would have been for Language Models (LM) and their variants like BERT, GPT-3 etc., not only to learn from long input contexts but also to understand the context of a question better by understanding how much time is left before answering that particular query or what information is relevant in an answer.
+
+Generated in 0:00:14.555601
+PromptTokens: Prompt Tokens: 416   Output Tokens: Out Tkns: 98  Total Tokens: Total Tkns: 514  Speed: 35.312866847614195
+---
+### NOTES AND COMMENTS TO GENERATION
+Generation Quality: 🤮 BAD
+Generation notes: 
+---
+
+
